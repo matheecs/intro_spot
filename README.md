@@ -8,4 +8,4 @@
 
 Learning resources contains some useful books, papers and patents.
 
-![](images/WechatIMG119.jpeg)
+![](images/IMG_2015.JPG)
