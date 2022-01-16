@@ -13,7 +13,7 @@ Learning resources contains some useful books, papers and patents.
 ### Contact us via WeChat
 
 <p align="center">
-  <img src="images/IMG_2015.JPG" width="500"/>
+  <img src="images/WeChat.JPG" width="500"/>
 </p>
 
 @张吉祥: matheecs
