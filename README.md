@@ -10,9 +10,8 @@
 
 ## 解析 Spot 机器人 (Introduction to Spot)
 
-[recorded video Links](https://www.bilibili.com/video/BV1ZP4y1J7xk)
-
-[slides with transcript](https://github.com/matheecs/introduction-to-spot/blob/master/slides.pdf)
+* [recorded video Links](https://www.bilibili.com/video/BV1ZP4y1J7xk)
+* [slides with transcript](https://github.com/matheecs/introduction-to-spot/blob/master/slides.pdf)
 
 This repository contains some useful books, papers and patents about Spot.
 
