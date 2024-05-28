@@ -12,7 +12,7 @@
 
 [recorded video Links](https://www.bilibili.com/video/BV1ZP4y1J7xk)
 
-[slides with transcript](https://github.com/matheecs/introduction-to-spot/blob/master/introduction-to-spot-slides.pdf)
+[slides with transcript](https://github.com/matheecs/introduction-to-spot/blob/master/slides.pdf)
 
 This repository contains some useful books, papers and patents about Spot.
 
